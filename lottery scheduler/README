@@ -1,4 +1,4 @@
-C code that impliments Lotery scheduler.
+C code that impliments Lottery scheduler.
 - kern_switch.c
 - sched_ule.c
 
