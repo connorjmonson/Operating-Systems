@@ -1,0 +1,6 @@
+A FreeBSD shell program (works like unix and linux) 
+
+Instructions on how to compile and run:
+- enter "make" into the command line to compile
+- you should then have an argshell executable
+- enter "./argshell" into the command line to run
