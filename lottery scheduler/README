@@ -1,4 +1,6 @@
 C code that impliments Lotery scheduler.
+- kern_switch.c
+- sched_ule.c
 
 also:
 a benchmark to validate the lottery scheduler implementation.
