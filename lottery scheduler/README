@@ -1,3 +1,6 @@
+C code that impliments Lotery scheduler.
+
+also:
 a benchmark to validate the lottery scheduler implementation.
 
 benchmark should do this:
