@@ -1,0 +1,11 @@
+a benchmark to validate the lottery scheduler implementation.
+
+benchmark should do this:
+- Create multiple processes.
+- Assign different nice values to the processes.
+- Collect information about what processes are being scheduled 
+  (using the statistics produced from your lottery scheduler)
+- Write the collected information in a file that shows relevant statistics. 
+  You can choose the type of statistics that will highlight how processes with higher nice values are scheduled more.
+- You should include the results of the benchmark in your design document and benchmark report. 
+- Also, you should provide a script that allows the graders to recreate the benchmark.
